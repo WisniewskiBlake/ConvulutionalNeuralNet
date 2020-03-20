@@ -21,3 +21,11 @@ putting them into one vector. This vector will be the future input layer of the 
 The last step is to make a classic ANN that is composed of fully connected layers. Since I already have the input layer from
 flattening, all I need to do is create a hidden layer, or fully connected layer. The Dense function is used to add a fully
 connected layer.
+
+![](images/ml9.png)
+
+![](images/ml9.png)
+
+![](images/ml9.png)
+
+![](images/ml9.png)
