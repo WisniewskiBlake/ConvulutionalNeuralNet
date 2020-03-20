@@ -22,10 +22,14 @@ The last step is to make a classic ANN that is composed of fully connected layer
 flattening, all I need to do is create a hidden layer, or fully connected layer. The Dense function is used to add a fully
 connected layer.
 
-![](images/ml9.png)
 
-![](images/ml9.png)
 
-![](images/ml9.png)
+![](images/ml3.png)
 
-![](images/ml9.png)
+![](images/cnn2.png)
+
+![](images/cnn3.png)
+
+![](images/cnn4.png)
+
+![](images/cnn5.png)
