@@ -26,9 +26,9 @@ connected layer.
 
 ![](images/ml3.png)
 
-![](images/cnn2.png)
-
 ![](images/cnn3.png)
+
+![](images/cnn2.png)
 
 ![](images/cnn4.png)
 
